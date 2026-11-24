@@ -1,0 +1,7 @@
+# Pas de ROMs dans le depot (droits d'auteur SNK) : seulement les patchs IPS
+*.zip
+*.p1
+*.bin
+*.sp1
+sortie/
+__pycache__/
